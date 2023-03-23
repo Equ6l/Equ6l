@@ -1,7 +1,7 @@
 ## Hey I'm Maëlys 👋
 I am a web developer junior 💻
 <!-- Top lang -->
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelysdcb&layout=compact&theme=apprentice&bg_color=00000000&hide_border=true&hide=css#gh-dark-mode-only" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=maelysdcb&hide=prs,issues&show_icons=true&theme=vue-dark&bg_color=00000000&hide_border=true&custom_title=My-GitHub-Stats#gh-dark-mode-only" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelysdcb&layout=compact&theme=apprentice&bg_color=00000000&hide_border=true&hide=html,css#gh-dark-mode-only" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=maelysdcb&hide=prs,issues&show_icons=true&theme=vue-dark&bg_color=00000000&hide_border=true&custom_title=My-GitHub-Stats#gh-dark-mode-only" /></a>
 
 ---
 <details>
